@@ -1,1 +1,1 @@
-# .github
+# Informações sobre o projeto
